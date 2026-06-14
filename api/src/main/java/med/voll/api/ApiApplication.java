@@ -11,3 +11,6 @@ public class ApiApplication {
 	}
 
 }
+
+
+/* TERMINEI A ULTIMA AULA EM: ENTIDADES JPA */
