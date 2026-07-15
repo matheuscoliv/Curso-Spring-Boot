@@ -18,6 +18,9 @@ public record DadosCadastroMedico(
         String email,
 
         @NotBlank
+        String telefone,
+
+        @NotBlank
         @Pattern(regexp = "\\d{4,6}") //verifica se o crm tem de 4 a 6 digitos
         String crm,
 
