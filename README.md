@@ -180,10 +180,5 @@ Durante o desenvolvimento foram praticados:
 - Boas práticas de organização de código
 
 ---
-
-## 👨‍💻 Autor
-
-**Matheus Oliveira**
-
 GitHub:
 https://github.com/matheuscoliv
